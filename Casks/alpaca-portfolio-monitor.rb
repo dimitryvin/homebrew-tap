@@ -1,6 +1,6 @@
 cask "alpaca-portfolio-monitor" do
-  version "1.0.2"
-  sha256 "3707afbac4b9f990744bdb74ddf9bda90e0034b344eb705ee24df708c46f3b5a"
+  version "1.0.3"
+  sha256 "5ccc9093946b1af0e7e28264d1bdff35f04a88d230796a75fd998d7775815fce"
 
   url "https://github.com/dimitryvin/alpaca-portfolio-monitor/releases/download/v#{version}/AlpacaMonitor-#{version}.dmg"
   name "Alpaca Monitor"
